@@ -1,0 +1,21 @@
+https://t.co/2A3RK2TGZW
+
+Twitterbot @tiozaodamassa
+
+Eu sou um bot simples que aceita os seguintes comandos via DM (mensagem), resposta ou se me marcar num tuite:
+
+/ajuda
+
+- Eu mostro esse texto de ajuda
+
+/motivacional @USUARIO
+
+- Eu tuito uma mensagem motivacional para o usuário marcado
+- Por exemplo:
+/motivacional @evaristocosta
+
+/escolhe OPÇÃO ou OPÇÃO ou OPÇÃO
+
+- Eu escolho uma das opções e respondo via DM, resposta ou tuite
+- Por exemplo:
+/escolhe É pavê ou pá comê?!kkkk
